@@ -43,7 +43,7 @@ Step 1: In your android studio open Constants.java
 Step 2: Change BASE_URL with your URL
 
 
-# A few resources to get you started if this is your first Flutter project:
+# A few :
 
 
 
@@ -55,6 +55,10 @@ Rounded Image View: https://github.com/vinc3m1/RoundedImageView
 Carousel: https://github.com/ImaginativeShohag/Why-Not-Image-Carousel
 
 Android Volley: https://google.github.io/volley
+Jitsi SDK: https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-android-sdk
+Firebase Auth Docs: https://firebase.google.com/docs/auth/android/start
+
+
 
 
 ### Free SVG Icons
