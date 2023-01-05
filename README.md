@@ -7,7 +7,7 @@ Ecommerce Application
 
 ![image](https://user-images.githubusercontent.com/104470002/210889850-64f4c6ee-e70f-447e-97a8-85bfbaf14c67.png)
 ![image](https://user-images.githubusercontent.com/104470002/210891208-e4d10473-ffb6-484a-b8ef-940c40607b92.png)
-2. authentification
+2. authentification //
 _ Log In
 
 ![image](https://user-images.githubusercontent.com/104470002/210896473-d96f7c9b-6b78-483e-acca-e5396733a753.png)
@@ -38,7 +38,7 @@ _ Sign Up
 
 Authentifaction Section
 
-## How to connect your panel with app
+## How to connect your panel with app <br />
 Step 1: In your android studio open Constants.java
 Step 2: Change BASE_URL with your URL
 
