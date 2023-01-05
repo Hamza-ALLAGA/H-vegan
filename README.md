@@ -1,4 +1,4 @@
-# Hvegen
+# H-vegen
 Ecommerce Application
 
 # Content of the app
@@ -36,7 +36,6 @@ Log In<br />
 
 
 
-Authentifaction Section
 
 ## How to connect your panel with app <br />
 Step 1: In your android studio open Constants.java<br/>
