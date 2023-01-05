@@ -1,4 +1,4 @@
-### Hvegen
+# Hvegen
 Ecommerce Application
 
 # Content of the app
@@ -43,7 +43,7 @@ Step 1: In your android studio open Constants.java
 Step 2: Change BASE_URL with your URL
 
 
-##### A few resources to get you started if this is your first Flutter project:
+# A few resources to get you started if this is your first Flutter project:
 
 
 
