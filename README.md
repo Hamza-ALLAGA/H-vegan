@@ -1,7 +1,7 @@
 ### Hvegen
 Ecommerce Application
 
-# Contents of the app
+# Content of the app
 
 1. splash screen :
 
