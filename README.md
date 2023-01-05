@@ -43,7 +43,7 @@ Step 1: In your android studio open Constants.java<br/>
 Step 2: Change BASE_URL with your URL
 
 
-# A few :
+# A few ressources :
 
 
 
