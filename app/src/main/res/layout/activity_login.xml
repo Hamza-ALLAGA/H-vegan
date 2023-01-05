@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:gravity="center"
+    tools:context=".activities.LoginActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="114dp"
+
+            android:layout_height="145dp"
+            android:src="@drawable/logoname" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="13dp"></View>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="99dp"
+            android:text="Log in"
+            android:textAlignment="center"
+            android:textColor="@color/orange"
+            android:textSize="36sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+
+            android:layout_width="321dp"
+            android:layout_height="496dp"
+
+            android:layout_gravity="center"
+
+            android:background="@drawable/custom_edittext"
+
+            android:gravity="fill_vertical"
+            android:orientation="vertical"
+            android:padding="24dp"
+            tools:ignore="ExtraText">
+
+
+            <EditText
+                android:id="@+id/login_email"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/custom_edittext"
+                android:drawableLeft="@drawable/ic_baseline_alternate_email_24"
+                android:drawablePadding="8dp"
+                android:hint="Email"
+
+                android:padding="8dp"
+
+                android:textColor="@color/black" />
+
+            <EditText
+
+                android:id="@+id/login_password"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custom_edittext"
+                android:drawableLeft="@drawable/ic_baseline_lock_24"
+                android:drawableRight="@drawable/ic_baseline_visibility_off_24"
+                android:drawablePadding="8dp"
+
+                android:hint="password"
+                android:inputType="textPassword"
+                android:longClickable="false"
+                android:padding="8dp"
+                android:textColor="@color/black"
+
+                />
+
+
+            <Button
+                android:id="@+id/login_button"
+                android:layout_width="64dp"
+                android:layout_height="45dp"
+                android:layout_marginLeft="205dp"
+                android:layout_marginTop="10dp"
+                android:backgroundTint="@color/white1"
+                android:drawableBottom="@drawable/ic_baseline_login_24"
+                android:onClick="nextPage"
+
+
+                android:textColor="@color/black"
+                app:cornerRadius="20dp" />
+
+            <TextView
+                android:id="@+id/forgetpassword"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:padding="8dp"
+                android:text="Forget Password "
+                android:textColor="@color/black"
+                android:textSize="18sp" />
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:gravity="center">
+
+                <View
+                    android:layout_width="80dp"
+                    android:layout_height="3dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="1sp"
+                    android:background="@color/orange"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:padding="8dp"
+                    android:text="or "
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
+
+                <View
+                    android:layout_width="80dp"
+                    android:layout_height="5dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="1sp"
+                    android:background="@color/orange" />
+
+            </TableRow>
+
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:gravity="center">
+
+
+                <ImageView
+                    android:id="@+id/imageView11"
+                    android:layout_width="46dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="12dp"
+                    app:srcCompat="@drawable/linkedin" />
+
+                <ImageView
+                    android:id="@+id/imageView12"
+                    android:layout_width="46dp"
+                    android:layout_height="match_parent"
+
+                    android:layout_marginLeft="10dp"
+                    app:srcCompat="@drawable/googleg_standard_color_18" />
+
+                <ImageView
+                    android:id="@+id/imageView14"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="46dp"
+                    android:layout_marginLeft="10dp"
+                    app:srcCompat="@drawable/fb" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/signupRedirectText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:padding="8dp"
+                    android:text="Not yet registered ? "
+                    android:textColor="@color/black"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/signupRedirectText1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:onClick="nextPage1"
+                    android:padding="8dp"
+                    android:text="Sign up"
+                    android:textColor="@color/orange"
+                    android:textSize="18sp" />
+            </TableRow>
+
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
