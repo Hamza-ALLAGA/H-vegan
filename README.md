@@ -8,11 +8,11 @@ Ecommerce Application
 ![image](https://user-images.githubusercontent.com/104470002/210889850-64f4c6ee-e70f-447e-97a8-85bfbaf14c67.png)
 ![image](https://user-images.githubusercontent.com/104470002/210891208-e4d10473-ffb6-484a-b8ef-940c40607b92.png)
 2. authentification <br />
-_ Log In
+Log In<br />
 
 ![image](https://user-images.githubusercontent.com/104470002/210896473-d96f7c9b-6b78-483e-acca-e5396733a753.png)
 
-_ Sign Up
+<br />Sign Up
 ![image](https://user-images.githubusercontent.com/104470002/210896317-d74b43a5-7def-4659-bd91-10ac3b57b397.png)
 
 3. Home Screen
