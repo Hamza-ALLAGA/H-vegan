@@ -22,7 +22,6 @@ Category Product
 
 Choose product
 
-![image](https://user-images.githubusercontent.com/104470002/210897297-3f4abed2-564b-4acb-923f-2bca6af4b58e.png)
 ![image](https://user-images.githubusercontent.com/104470002/210897453-e13aaafd-7f66-4cab-94c6-4c5840d8038b.png)
 
 payment
