@@ -1,6 +1,8 @@
 ### Hvegen
 Ecommerce Application
 
+# Contents of the app
+
 splash screen :
 
 ![image](https://user-images.githubusercontent.com/104470002/210889850-64f4c6ee-e70f-447e-97a8-85bfbaf14c67.png)
@@ -35,7 +37,9 @@ payment
 
 Authentifaction Section
 
-
+## How to connect your panel with app
+Step 1: In your android studio open Constants.java
+Step 2: Change BASE_URL with your URL
 
 
 ##### A few resources to get you started if this is your first Flutter project:
