@@ -39,7 +39,7 @@ Log In<br />
 Authentifaction Section
 
 ## How to connect your panel with app <br />
-Step 1: In your android studio open Constants.java
+Step 1: In your android studio open Constants.java<br/>
 Step 2: Change BASE_URL with your URL
 
 
