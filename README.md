@@ -1,6 +1,6 @@
-## Hvegen
+### Hvegen
 Ecommerce Application
-#Used Libraries
+###Used Libraries
 Material Search Bar: https://github.com/mancj/MaterialSearchBar
 
 Rounded Image View: https://github.com/vinc3m1/RoundedImageView
@@ -13,6 +13,6 @@ Tiny Cart: https://github.com/hishd/TinyCart
 
 Advanced Webview: https://github.com/delight-im/Android-AdvancedWebView
 
-#Free SVG Icons
+###Free SVG Icons
 https://www.svgrepo.com
 
