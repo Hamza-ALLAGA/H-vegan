@@ -21,7 +21,6 @@ import java.util.Map;
 public class CartActivity extends AppCompatActivity {
 
     ActivityCartBinding binding;
-
     CartAdapter adapter;
     ArrayList<Product> products;
 
