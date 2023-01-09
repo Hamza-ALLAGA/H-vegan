@@ -7,6 +7,9 @@ To use an app that sells vegan products online, customers will typically need to
 
 # Content of the app
 
+
+
+
 1. splash screen :
 
 ![image](https://user-images.githubusercontent.com/104470002/210889850-64f4c6ee-e70f-447e-97a8-85bfbaf14c67.png)
