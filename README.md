@@ -1,7 +1,7 @@
 # H-vegan
 E-commerce app 
 
-H-vegan is app sells vegan products online is a mobile application that allows users to purchase vegan items through their smartphone or other device. These apps typically offer a range of vegan products, including food, clothing, and personal care items. Customers can browse the product selection, add items to their virtual shopping cart, and complete the transaction through the app. The products will then be shipped to the customer.
+H-vegan is app sells vegan products online is a mobile application that allows users to purchase vegan items through their smartphone . These apps typically offer a range of vegan products, including food, clothing, and personal care items. Customers can browse the product selection, add items to their virtual shopping cart, and complete the transaction through the app. The products will then be shipped to the customer.
 
 To use an app that sells vegan products online, customers will typically need to create an account and provide their shipping and payment information. The app may also offer features such as product recommendations, wish lists, and saved payment information to make the shopping experience more convenient.
 
